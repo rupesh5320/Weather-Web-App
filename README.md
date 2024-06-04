@@ -26,5 +26,5 @@ Location Search: Enter a city name to retrieve weather data for that specific lo
 
 -> HTML: Provides the structure and content of the web page.<br>
 -> CSS: Styles the layout and visual elements of the page.<br>
--> JavaScript: Fetches weather data from a weather API (not included) and dynamically updates the UI.<br>
+-> JavaScript: Fetches weather data from a weather API and dynamically updates the UI.<br>
 
