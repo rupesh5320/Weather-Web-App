@@ -1,7 +1,7 @@
 <------------------------- Weather Web App ----------------------------->
 
 This is the README file for a weather web application built with HTML, CSS, and JavaScript.
-<br>
+<br><br>
 Author - Rupesh Kumar
 
 Features: <br>
