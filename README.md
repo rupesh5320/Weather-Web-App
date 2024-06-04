@@ -2,6 +2,7 @@
 
 This is the README file for a weather web application built with HTML, CSS, and JavaScript.
 <br>
+Author - Rupesh Kumar
 
 Features: <br>
 Current Weather: View the current temperature, weather conditions (sunny, rainy, cloudy, etc.),
